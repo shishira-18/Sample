@@ -8,3 +8,4 @@ def new_func():
 
 my_func()
 new_func()
+
